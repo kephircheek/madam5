@@ -7,4 +7,6 @@
 
 [Flask + RQ](https://habr.com/en/post/307140/)
 
+[Redis](https://redis.io/topics/quickstart)
+
 [SQL](https://www.w3schools.com/sql/sql_datatypes.asp)
