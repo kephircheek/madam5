@@ -64,7 +64,7 @@ curl -X POST -d "url=http://link" http://localhost:8000/submit
 ## GET 
 
 ### check
-Получение статуса можно сделать с помощью `uuid`
+Получение статуса можно сделать с помощью `id`
 ```
 curl -X GET http://localhost:8000/check?id=22b16fc8-3a4b-4a8e-aa88-e65bb57b3358
 ```
