@@ -56,5 +56,7 @@ def history():
 
 
 if __name__ == '__main__':
-    app.run(port=8000)
+    host = ''
+    port = 8000
+    app.run(host=host, port=port)
 

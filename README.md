@@ -1,6 +1,7 @@
 # madam5
+Madam5 - веб сервис для вычисления [**MD5 hash**](https://ru.wikipedia.org/wiki/MD5) от файла расположеного в сети Интернет. 
 
-## LINKS
+## useful links
 [Flask -> request](http://flask.pocoo.org/docs/0.12/api/?highlight=request#flask.request)
 
 [MD5_hash in python](https://stackoverflow.com/questions/49958006/python-3-create-md5-hash)
