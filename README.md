@@ -1,6 +1,28 @@
 # madam5
 Madam5 - веб сервис для вычисления [**MD5 hash**](https://ru.wikipedia.org/wiki/MD5) от файла расположеного в сети Интернет. 
 
+---
+
+## Установка
+1. [**Redis**](https://redis.io/topics/quickstart) - хранилище данных и брокер сообщений
+'''
+wget http://download.redis.io/redis-stable.tar.gz
+tar xvzf redis-stable.tar.gz
+cd redis-stable
+make
+'''
+
+В MacOS можно так
+'''
+brew install redis
+'''
+
+2. [**RQ**](https://python-rq.org) - простая очередь для Redis  
+3. [**FLask**](http://flask.pocoo.org) 
+'''
+pip install -r requirements.txt
+'''
+
 ## useful links
 [Flask -> request](http://flask.pocoo.org/docs/0.12/api/?highlight=request#flask.request)
 
