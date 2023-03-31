@@ -1,4 +1,4 @@
 flask==1.0.3
 rq==1.0
-redis==3.2.1
+redis==4.4.4
 requests==2.22.0
